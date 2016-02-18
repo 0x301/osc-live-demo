@@ -1,2 +1,3 @@
 # osc-live-demo
-Showing how Github works
+
+Changing the description because it was vague.
